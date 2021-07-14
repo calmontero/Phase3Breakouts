@@ -7,7 +7,7 @@
 
 class Owner
 
-    attr_accessor :gender,:name,:age,:previous_dogs,:current_dog_count
+    attr_accessor :gender,:name,:age
 
     @@all = []
 
